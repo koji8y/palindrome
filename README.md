@@ -1,5 +1,5 @@
-- My son told me that a literature says natural numbers can be partitioned to two groups; a palindrome number (whose expression string is palindrome) can be created from a number in the first group by iterating the following operation at most 24 times:
+- My son, 7, told me that a literature says natural numbers can be partitioned to two groups; a palindrome number (whose expression string is palindrome) can be created from a number in the first group by iterating the following operation at most 24 times:
   - invert the expression string of the given number, then
   - treat the string as integer and add it to the given number.
-- No palindrom number can be created from any number in the second group by iterating the operation infinite many times.
+- No palindrome number can be created from any number in the second group by iterating the operation infinite many times.
 - An example in the second group is 196.
